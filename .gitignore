@@ -1,0 +1,3 @@
+.env
+mariadb_data/
+metabase_data/
