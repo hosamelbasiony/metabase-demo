@@ -1,4 +1,3 @@
-version: "3.9"
 
 services:
   mariadb:
@@ -50,3 +49,4 @@ services:
 
 networks:
   metabase-net:
+
